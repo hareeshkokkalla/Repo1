@@ -1,0 +1,11 @@
+ Volume in drive D has no label.
+ Volume Serial Number is EC8A-8979
+
+ Directory of D:\Softwares\Myproject
+
+08/21/2017  12:33 AM    <DIR>          .
+08/21/2017  12:33 AM    <DIR>          ..
+08/21/2017  12:33 AM                 0 file2branch1.txt
+08/21/2017  12:18 AM               416 test1.txt
+               2 File(s)            416 bytes
+               2 Dir(s)  210,736,865,280 bytes free
